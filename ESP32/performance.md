@@ -10,7 +10,7 @@ Average hashrate:
 - Stable Wi-Fi connection
 - ESP32 DevKit V1
 - Single-core mining mode
-
+- Aluminium heat sink
 ## Known Bottlenecks
 
 - Wi-Fi communication overhead
