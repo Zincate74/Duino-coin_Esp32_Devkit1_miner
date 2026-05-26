@@ -1,1 +1,7 @@
-Excludes temporary build files and unnecessary IDE-generated files.
+
+
+.vscode/
+build/
+*.bin
+*.elf
+*.map
