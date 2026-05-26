@@ -82,3 +82,11 @@ Student embedded systems developer interested in:
 ## Disclaimer
 
 This project is for educational and experimental purposes only.
+
+---
+
+## Support
+
+See [SUPPORT.md](SUPPORT.md)
+
+---
