@@ -1,3 +1,4 @@
+Tracks project versions, optimizations, updates, and planned features.
 
 
 # Changelog
