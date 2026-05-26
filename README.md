@@ -52,10 +52,16 @@ Current implementation runs on a single ESP32 core with optimized SHA1 computati
 
 ```text
 ESP32/
-Nano/
-images/
+ ├── ESP32HashCore_v1.ino
+ ├── hardware.md
+ ├── optimization_notes.md
+ └── performance.md
+
 README.md
+ABOUT.md
 LICENSE
+CHANGELOG.md
+.gitignore
 ```
 
 ---
