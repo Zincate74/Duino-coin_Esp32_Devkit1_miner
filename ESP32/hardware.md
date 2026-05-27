@@ -8,7 +8,7 @@
 
 - USB cable
 - Stable Wi-Fi connection
-- 5V power source
+- 3.3V power source
 
 ## Recommended Environment
 
